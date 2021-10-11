@@ -1,0 +1,66 @@
+--------------------------------------------------------------------------------------
+Timing Analyzer Summary
+--------------------------------------------------------------------------------------
+
+Type           : Worst-case tsu
+Slack          : N/A
+Required Time  : None
+Actual Time    : 13.295 ns
+From           : Sel2
+To             : Acc8bit:A1|FF[7]
+From Clock     : --
+To Clock       : Clock
+Failed Paths   : 0
+
+Type           : Worst-case tco
+Slack          : N/A
+Required Time  : None
+Actual Time    : 11.122 ns
+From           : Reg8bit:R3|FF[2]
+To             : DioExt[2]
+From Clock     : Clock
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Worst-case tpd
+Slack          : N/A
+Required Time  : None
+Actual Time    : 18.378 ns
+From           : Sel2
+To             : DioExt[3]
+From Clock     : --
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Worst-case th
+Slack          : N/A
+Required Time  : None
+Actual Time    : -2.244 ns
+From           : RnWa
+To             : Reg8bit:R1|FF[0]
+From Clock     : --
+To Clock       : Clock
+Failed Paths   : 0
+
+Type           : Clock Setup: 'Clock'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 144.55 MHz ( period = 6.918 ns )
+From           : Acc8bit:A1|FF[5]
+To             : Acc8bit:A1|FF[7]
+From Clock     : Clock
+To Clock       : Clock
+Failed Paths   : 0
+
+Type           : Total number of failed paths
+Slack          : 
+Required Time  : 
+Actual Time    : 
+From           : 
+To             : 
+From Clock     : 
+To Clock       : 
+Failed Paths   : 0
+
+--------------------------------------------------------------------------------------
+

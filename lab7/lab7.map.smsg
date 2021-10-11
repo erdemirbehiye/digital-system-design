@@ -1,0 +1,4 @@
+Warning (10273): Verilog HDL warning at Acc8bit.v(23): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at Lab7.v(16): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at Lab7.v(19): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at Reg8bit.v(18): extended using "x" or "z"
